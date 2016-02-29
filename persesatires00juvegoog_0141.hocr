@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./persesatires00juvegoog_0141.png"; bbox 0 0 2284 3650; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 347 1191 616 1294">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 347 1191 616 1294">
+     <span class='ocr_line' id='line_1_1' title="bbox 347 1191 616 1294; baseline -0.019 0"><span class='ocrx_word' id='word_1_1' title='bbox 347 1191 462 1294; x_wconf 78' lang='lat' dir='ltr'>SAT</span> <span class='ocrx_word' id='word_1_2' title='bbox 471 1196 616 1289; x_wconf 82' lang='lat' dir='ltr'>[RES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 131 1402 832 1638">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 1402 832 1638">
+     <span class='ocr_line' id='line_1_2' title="bbox 131 1402 832 1638; baseline 0.006 -34"><span class='ocrx_word' id='word_1_3' title='bbox 131 1457 256 1606; x_wconf 78' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 335 1402 832 1638; x_wconf 69' lang='lat' dir='ltr'>JUVENAL,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 287 1802 676 1845">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 287 1802 676 1845">
+     <span class='ocr_line' id='line_1_3' title="bbox 287 1802 676 1845; baseline 0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 287 1802 470 1845; x_wconf 70' lang='lat' dir='ltr'>TRADUCTION</span> <span class='ocrx_word' id='word_1_6' title='bbox 490 1803 527 1844; x_wconf 84' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 546 1803 676 1845; x_wconf 70' lang='lat' dir='ltr'>DUSAULK</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 232 2123 727 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 232 2123 727 2175">
+     <span class='ocr_line' id='line_1_4' title="bbox 232 2123 727 2175; baseline -0.008 -1"><span class='ocrx_word' id='word_1_8' title='bbox 232 2126 297 2175; x_wconf 71' lang='lat' dir='ltr'>PAR</span> <span class='ocrx_word' id='word_1_9' title='bbox 325 2126 360 2175; x_wconf 85' lang='grc' dir='ltr'>Μ.</span> <span class='ocrx_word' id='word_1_10' title='bbox 382 2126 574 2174; x_wconf 81' lang='lat' dir='ltr'><strong>FERDINANI)</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 595 2123 727 2173; x_wconf 82' lang='lat' dir='ltr'>COLLET.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1146 3650">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1146 3650">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1146 3650; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1146 3650; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
